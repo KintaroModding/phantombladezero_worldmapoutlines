@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "World Map Outlines",
+  "summary": "The world map outlines every region you have discovered, all the time. No image files, no game file replaced. A PBZModLoader mod.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["ui"],
+  "requires": ["PBZModLoader (tested with 2.1.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}
