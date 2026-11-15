@@ -19,6 +19,8 @@ no game file replaced, nothing written into the save.
 
 ![World Map Outlines](docs/cover.png)
 
+![The world map with the region outlines](docs/screenshot-1.png)
+
 ## How to install
 
 1. Install [PBZModLoader](https://github.com/KintaroModding/phantombladezero_pbzmodloader) 2.1.0 or later.
