@@ -17,9 +17,9 @@ no game file replaced, nothing written into the save.
 
 ## Screenshots
 
-![World Map Outlines](docs/cover.png)
+![World Map Outlines](docs/cover.webp)
 
-![The world map with the region outlines](docs/screenshot-1.png)
+![The world map with the region outlines](docs/screenshot-1.webp)
 
 ## How to install
 
