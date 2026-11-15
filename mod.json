@@ -2,7 +2,7 @@
   "name": "World Map Outlines",
   "folder": "phantombladezero_worldmapoutlines",
   "author": "Kintaro",
-  "version": "1.1",
+  "version": "1.2",
   "description": "The world map shows a soft outline around every region you have discovered, all the time, without moving the cursor over each one. A PBZModLoader mod; the outlines are inside the script, no image files; settings in a text file in its folder, or on its Mods Menu page.",
   "kind": "pbzmodloader",
   "game": "phantombladezero",

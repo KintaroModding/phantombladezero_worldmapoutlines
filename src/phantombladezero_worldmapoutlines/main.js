@@ -14,6 +14,7 @@
 // Ported from the author's earlier UE4SS mod "TracedLands" 0.1.2 (a Lua script that searched the map widgets every
 // 250 ms, and the same eight images as loose PNG files). The region boxes and the images are that mod's.
 // 1.1: the wrapper reaches the copy that runs now through globalThis (FRAME_KEY), so the outlines survive Alt+F5.
+// 1.2: the same code as 1.1; a release that tests how mod managers find an update and its release notes.
 //
 // PBZModLoader loads this file after the game's MainStart, through the game's module system: require("ue"),
 // require("puerts") and require("Library/TsHelper") are the game's modules. Before a reload (Alt+F5) it awaits stop().
@@ -26,7 +27,7 @@ const puerts = require("puerts");
 
 const MOD_NAME = "World Map Outlines";
 const MOD_ID = "phantombladezero_worldmapoutlines"; // the mod folder's name and Mods Menu's page id
-const MOD_VERSION = "1.1";
+const MOD_VERSION = "1.2";
 const SETTINGS_MS = 2000;
 const REFRESH_MS = 250; // the discovered regions, read again while the world map shows
 const SETTINGS_FILE = MOD_ID + ".txt";
